@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SNAKEACE-PC</Machine>
+    <WindowsUser>Alkapov</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>30ac5ae0-248c-4bd5-bae7-ebe1610c5023</PackageIdentityName>
+    <IntermediateOutputPath>E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\SplashScreen.Windows.exe">
+      <PackagePath>SplashScreen.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\Views\Detail.xbf">
+      <PackagePath>Views\Detail.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\Views\Search.xbf">
+      <PackagePath>Views\Search.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\Views\Splash.xbf">
+      <PackagePath>Views\Splash.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\SplashScreen.Windows.xr.xml">
+      <PackagePath>SplashScreen.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

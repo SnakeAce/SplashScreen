@@ -1,0 +1,1 @@
+E:\Visual Studio 2013\Projects\SplashScreen\SplashScreen\SplashScreen.Windows\SplashScreen.Windows.csproj;neutral
